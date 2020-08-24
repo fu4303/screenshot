@@ -1,5 +1,6 @@
-# smart-screen
+# Smart-Screen
 Smart screen is a simple project that works with screen.guru and takes awesome screenshot of your website also resize them and put in a mac browser mockup.
+> developed with api of **screen.guru**
 
  [
 ![homepage](https://img.shields.io/github/followers/saviomartin?style=flat)](https://github.com/saviomartin)   ![enter image description here](https://img.shields.io/github/watchers/saviomartin/smart-screen?color=0df44b) ![enter image description here](https://img.shields.io/website?color=7007B5&url=https://smartscreen.vercel.app/)  ![enter image description here](https://img.shields.io/github/repo-size/saviomartin/smart-screen?color=F62484)[ ![homepage](https://img.shields.io/badge/build-passing-brightgreen)]([https://github.com/saviomartin/smart-screen ) ![enter image description here](https://img.shields.io/github/downloads/saviomartin/smart-screen/total?color=F62484)[
