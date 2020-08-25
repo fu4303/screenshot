@@ -16,9 +16,9 @@ https://smartscreen.vercel.app
 + Fully Responsive, Use it in any device
 
 # Useful links
-Project in Live: https://smartscreen.vercel.app
-My github profile: https://github.com/saviomartin
-My Instagram Profile: https://instagram.com/teen_developer
-Project Presentations: In progreess
++ Project in Live: https://smartscreen.vercel.app
++ My github profile: https://github.com/saviomartin
++ My Instagram Profile: https://instagram.com/teen_developer
++ Project Presentations: In progreess
 
 ## A Project by <a href="https://instagram.com/teen_developer">Savio Martin</a>
