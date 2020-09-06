@@ -9,6 +9,8 @@ Smart screen is a simple project that works with screen.guru and **takes clean s
 ## View It Live
 https://smartscreen.vercel.app
 
+<img src="https://github.com/saviomartin/smart-screen/blob/master/img/new.gif?raw=true">
+
 # What's Its Use
 + It Takes clean screenshot of your website
 + Resize it
