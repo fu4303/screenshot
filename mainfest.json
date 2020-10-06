@@ -2,7 +2,7 @@
     "name": "Smart Screen",
     "Developer": "Savio Martin",
     "short_name": "ScreenshotDeck",
-    "description": "Takes Clean Screenshots of any Website.",
+    "description": "Takes Clean Screenshots of any Website. Work with screen.guru",
     "lang": "Javascript",
     "start_url": "/index.html",
     "display": "minimal-ui",
